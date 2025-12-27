@@ -27,7 +27,7 @@ const PodcastHeader: React.FC = () => {
             <span className="absolute left-0 -bottom-1 w-full h-[2px] bg-emerald-400 rounded" />
           </span>
 
-          <span className="text-emerald-500">|</span>
+          
 
           <a
             href="#exclusive"
@@ -36,7 +36,7 @@ const PodcastHeader: React.FC = () => {
             Exclusive Podcasts
           </a>
 
-          <span className="text-emerald-500">|</span>
+          
 
           <a
             href="https://forms.gle/WwiqSPvndCYQQNUa8"
