@@ -26,6 +26,7 @@ export const PodcastCard = ({
             src={coverImage}
             alt={title}
             className="w-full h-full object-cover transition-transform duration-700 ease-out group-hover:scale-110"
+            loading="lazy"
           />
           {/* Overlay gradient */}
           <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-emerald-900/30 to-transparent z-20" />
