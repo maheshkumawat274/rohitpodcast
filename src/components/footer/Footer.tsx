@@ -121,7 +121,7 @@ const Footer: React.FC = () => {
         {/* Bottom Bar */}
         <div className="relative z-10 text-sm sm:text-lg font-bold py-6 text-center text-gray-300 bg-black/70">
           <span>
-            &copy; 2025 <span className="text-green-500">rohitprashar.com</span> All Rights Reserved
+            &copy; 2026 <span className="text-green-500">rohitprashar.com</span> All Rights Reserved
           </span>
         </div>
       </div>
