@@ -107,7 +107,7 @@ const Footer: React.FC = () => {
                   </div>
                   <div className="flex items-center gap-2">
                     <MdEmail className="text-lg" />
-                    <span>info@rohitprashar.in</span>
+                    <span>info@rohitprashar.com</span>
                   </div>
                 </div>
               <div className="space-y-1">
