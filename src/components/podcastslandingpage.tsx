@@ -14,7 +14,7 @@ export function PodcastLandingPage() {
       id: 1,
       title: 'Press CTRL + C for Creativity : Podcast with Rajeev Mehta ',
       originalPrice: 1999,
-      offerPrice: 199,
+      offerPrice: 299,
       coverImage: '/imgs/IMG_1541.PNG',
       bottomtext:' A secret podcast for designers'
     },
@@ -94,7 +94,7 @@ export function PodcastLandingPage() {
         <div className="text-center mb-20 md:mb-24">
           <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight mb-4">
             <span className="bg-gradient-to-r from-white via-gray-200 to-gray-400 bg-clip-text text-transparent">
-              Upcoming Podcasts
+              Exclusive Podcasts
             </span>
           </h1>
           <div className="w-24 h-1 bg-gradient-to-r from-emerald-600 to-green-500 mx-auto rounded-full" />

@@ -51,7 +51,7 @@ export const PodcastCard = ({
               </span>
             </div>
             <span className="text-emerald-400 text-sm font-medium tracking-wide">
-              Upcoming
+              Exclusive Podcasts
             </span>
           </div>
 
@@ -69,7 +69,7 @@ export const PodcastCard = ({
           >
             <div className="absolute inset-0 bg-gradient-to-r from-emerald-500 via-green-400 to-emerald-600 rounded-xl blur opacity-60 group-hover/btn:opacity-100 transition-opacity duration-300" />
             <div className="relative px-6 py-3 bg-gradient-to-r from-emerald-600 to-green-500 rounded-xl font-semibold text-white text-sm md:text-base transition-all duration-300 hover:scale-[1.02] active:scale-[0.98] shadow-lg cursor-pointer">
-              Pre-Book Now
+              Enroll Now
             </div>
           </a>
         </div>
